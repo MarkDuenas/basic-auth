@@ -2,11 +2,11 @@
 
 ### Author: Mark Duenas
 
-[Test Reports](https://github.com/MarkDuenas/basic-api-server/actions)
+[Test Reports](https://github.com/MarkDuenas/basic-auth/actions)
 
-[Deployed Link](https://basic-api-server-md.herokuapp.com/)
+[Deployed Link](https://basic-auth-md.herokuapp.com/)
 
-[Pull Req](https://github.com/MarkDuenas/basic-api-server/pull/1)
+[Pull Req](https://github.com/MarkDuenas/basic-auth/pull/1)
 
 
 ## Set up
